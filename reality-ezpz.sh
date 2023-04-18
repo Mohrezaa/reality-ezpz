@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-domain=eset.com
+domain=yahoo.com
 path="${HOME}/reality"
 image="teddysun/xray:1.8.0"
 
